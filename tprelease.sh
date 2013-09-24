@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # FIXME: allow script 
+# Test Script
 
 # for the moment, this script is primarily meant for standard websites
 
